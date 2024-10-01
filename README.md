@@ -1,9 +1,14 @@
+<body>
+    <center>
+        <h3>html video autoplay</h3>
+        <video controls width="500" autoplay muted>
+            <source src="video.mp4" type="video/mp4">
+            <source src="video.mp4" type="video/ogg">
+            <p>Sorry, your broswer doesn't support embedded videos. Here's the <a href="video.mp4&t=18s">Link to the video</a></p>
+        </video>
+    </center>
+</body>
 
-<video controls autoplay>
-  <source src="video.mp4" type="video/mp4">
-  <source src="video.mp4" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
   <h1 align="center">Hello 👋, I'm Asit Kumar @Upcoming SDE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
