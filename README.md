@@ -1,4 +1,9 @@
-![logo](logo.gif)
+
+<video controls autoplay>
+  <source src="video.mp4" type="video/mp4">
+  <source src="video.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
   <h1 align="center">Hello 👋, I'm Asit Kumar @Upcoming SDE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
