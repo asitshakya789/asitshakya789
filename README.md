@@ -1,3 +1,4 @@
+![logo](logo.gif)
   <h1 align="center">Hello 👋, I'm Asit Kumar @Upcoming SDE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
