@@ -6,21 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asitshakya789" alt="asitshakya789" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Website](https://asitshakya789.github.io/Personal-portfolio/)
-
-- 🌱 I’m currently learning **Front-end web development**
-
-- 👯 I’m looking to collaborate on **on a coding development project that involves problem-solving.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/asitshakya789](https://github.com/asitshakya789)
-
 - 📝 I regularly up to date on linkedlin [https://www.linkedin.com/in/asit14/](https://www.linkedin.com/in/asit14/)
 
-- 💬 Ask me about **Java,JavaScript,Node.js**
-
 - 📫 How to reach me **asitshakya789@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xfNklq71brmsv7yS9QrAp7sLTn5ch6pG/view?usp=sharing](https://drive.google.com/file/d/1xfNklq71brmsv7yS9QrAp7sLTn5ch6pG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +16,6 @@
 <a href="https://linkedin.com/in/asit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asit kumar" height="30" width="40" /></a>
 <a href="https://fb.com/asit shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asit shakya" height="30" width="40" /></a>
 <a href="https://instagram.com/asit.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asit.14" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asitshakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asitshakya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/techasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="techasit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asitshakya789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asitshakya789" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/asit14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asit14" height="30" width="40" /></a>
 </p>
