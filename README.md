@@ -1,8 +1,9 @@
 
 ![Logo](logo.gif)
 <div style="text-align: center">
-<h1 style="text-align: center">Hello , I'm Asit Kumar @Upcoming SDE</h1>
-<h3 style="text-align: center">A passionate frontend developer</h3>
+<h1 style="text-align: center">------------------Hello , I'm Asit Kumar @Upcoming SDE-------------------</h1>
+<p style="text-align: center">Motivated and Enthusiastic Full Stack Software Engineer
+I have a proven track record of success in diverse projects and am experienced in the latest technologies and best practices. I am skilled in managing high-performing teams and fostering collaboration, demonstrating strong technical and leadership abilities. I am eager to apply my knowledge to new challenges and am open to new opportunities and collaborative ventures.passionate frontend developer.</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=asitshakya789&label=Profile%20views&color=0e75b6&style=flat" alt="asitshakya789" />
