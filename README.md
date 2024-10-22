@@ -30,7 +30,7 @@ I have a proven track record of success in diverse projects and am experienced i
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asit shakya" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/asitshakya789" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asitshakya789" height="30" width="40" />
+    <img src="leetcode.gif" alt="asitshakya789" height="30" width="40" />
   </a>
   </p>
 
