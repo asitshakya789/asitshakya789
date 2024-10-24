@@ -81,7 +81,5 @@ I have a proven track record of success in diverse projects and am experienced i
   </a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asitshakya789&show_icons=true&locale=en&layout=compact" alt="asitshakya789" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=asitshakya789&show_icons=true&locale=en" alt="asitshakya789" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asitshakya789&" alt="asitshakya789" /></p>
+
 <div>
