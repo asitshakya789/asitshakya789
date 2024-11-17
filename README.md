@@ -1,6 +1,7 @@
 <img  align="right" src="https://komarev.com/ghpvc/?username=asitshakya789&label=Profile%20views&color=0e75b6&style=flat" alt="asitshakya789" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asit+Kumar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asit+Kumar!;&color=847471" />
+<img width="800" src="https://github.com/user-attachments/assets/3c8fdda1-5f11-4153-99d4-823c5b5a5470" alt="logo">
 </h1>
 <h3 align="center">A passionate software developer</h3>
 
@@ -49,8 +50,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=asitshakya789&theme=dark&hide_border=false&include_all_commits=false&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=asitshakya789&theme=dark&hide_border=false&border_radius=10" alt="Streak Stats" /><br/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api?username=asitshakya789&theme=dark&hide_border=false&include_all_commits=false&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=asitshakya789&theme=dark&hide_border=false&border_radius=10" alt="Streak Stats" /><br/>
 <!--   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitshakya789&theme=dark&hide=HTML&langs_count=8&layout=compact&border_radius=10&count_private=true" alt="Top Languages" /> -->
   
   ### 🔝 Top Contributed Repo
