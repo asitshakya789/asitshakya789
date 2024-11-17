@@ -49,12 +49,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=asitshakya789&theme=dark&hide_border=false&include_all_commits=false&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=asitshakya789&theme=dark&hide_border=false&border_radius=10" alt="Streak Stats" /><br/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=asitshakya789&theme=dark&hide_border=false&include_all_commits=false&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=asitshakya789&theme=dark&hide_border=false&border_radius=10" alt="Streak Stats" /><br/>
 <!--   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitshakya789&theme=dark&hide=HTML&langs_count=8&layout=compact&border_radius=10&count_private=true" alt="Top Languages" /> -->
   
   ### 🔝 Top Contributed Repo
-<img width="390" src="https://github-contributor-stats.vercel.app/api?username=asitshakya789&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="border-radius: 10px;" />
+<img width="290" src="https://github-contributor-stats.vercel.app/api?username=asitshakya789&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="border-radius: 10px;" />
 
 <br/><br/>
 
