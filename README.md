@@ -1,7 +1,7 @@
 <img  align="right" src="https://komarev.com/ghpvc/?username=asitshakya789&label=Profile%20views&color=0e75b6&style=flat" alt="asitshakya789" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asit+Kumar!;&color=847471" />
-<img width="800" src="https://github.com/user-attachments/assets/3c8fdda1-5f11-4153-99d4-823c5b5a5470" alt="logo">
+<!-- <img width="800" src="https://github.com/user-attachments/assets/3c8fdda1-5f11-4153-99d4-823c5b5a5470" alt="logo"> -->
 </h1>
 <h3 align="center">A passionate software developer</h3>
 
