@@ -3,19 +3,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asit+Kumar!;&color=847471" />
 <!-- <img width="800" src="https://github.com/user-attachments/assets/3c8fdda1-5f11-4153-99d4-823c5b5a5470" alt="logo"> -->
 </h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">👨‍💻 Passionate Software Engineer Specializing in Web Development</h3>
 
 <div align="center">
- 
-🔭 I’m currently working on Web Development
 
-🌱 I’m currently learning various tech that interests me
+🔭 Current Role: I’m currently a Web Developer focused on creating dynamic and user-friendly applications.
 
-💬 Ask me about  DSA, Java, Python, Node Js, React Js, MongoDB, SQL
+🌱 Learning Journey: I’m actively expanding my skill set in modern web technologies and frameworks.
 
-😄 Hobbies: Coding, Travling, Writing
+💬 Tech Stack: Feel free to reach out to me about Data Structures and Algorithms (DSA), Java, Python, Node.js, React.js, MongoDB, and SQL. I enjoy discussing best practices and innovative solutions!
 
-⚡ Fun fact: Running, Long Jump
+😄 Hobbies: In my free time, I love coding, traveling to explore new cultures and ideas, and writing about tech trends and personal experiences.
+
+⚡ Fun Fact: I’m an avid runner and enjoy long jump, which keeps me disciplined and focused—qualities I bring into my coding projects!
+
+
 
  </div>
  
